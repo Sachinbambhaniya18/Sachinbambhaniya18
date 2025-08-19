@@ -6,13 +6,13 @@
 
 </div>
 
----
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sachinbambhaniya18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
----
+#
 
 
 <table>
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
----
+#
 
 ### 🛠️ Skills & Technologies
 
@@ -63,7 +63,7 @@
 
 </div>
 
----
+#
 
 ### 📊 GitHub Analytics
 
@@ -72,7 +72,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinbambhaniya18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
 </div>
 
----
+#
 
 ### 🏆 GitHub Trophies
 
@@ -80,8 +80,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sachinbambhaniya18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
----
-
+#
 ### 🌐 Connect With Me: 
 
 <p align="left">
@@ -89,7 +88,7 @@
     <img src="./img/linkedin-light.svg#gh-light-mode-only" width="40"/>
     <img src="./img/linkedin-dark.svg#gh-dark-mode-only" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/__.schn_bambhaniya.__/">
     <img src="./img/instagram-light.svg#gh-light-mode-only" width="40"/>
     <img src="./img/instagram-dark.svg#gh-dark-mode-only" width="40"/>
@@ -97,7 +96,7 @@
 </p>
 
 
----
+#
 
 <div align="center">
   
