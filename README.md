@@ -83,7 +83,7 @@
 #
 ### 🌐 Connect With Me: 
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/sachin-patel02/">
     <img src="./img/linkedin-light.svg#gh-light-mode-only" width="40"/>
     <img src="./img/linkedin-dark.svg#gh-dark-mode-only" width="40"/>
