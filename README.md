@@ -69,7 +69,7 @@
 
 <div align="center">
   
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinbambhaniya18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinbambhaniya18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
 </div>
 
 #
