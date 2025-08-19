@@ -80,7 +80,7 @@
     <img src="./img/linkedin-light.svg#gh-light-mode-only" width="25"/>
     <img src="./img/linkedin-dark.svg#gh-dark-mode-only" width="25"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/__.schn_bambhaniya.__/">
     <img src="./img/instagram-light.svg#gh-light-mode-only" width="25"/>
     <img src="./img/instagram-dark.svg#gh-dark-mode-only" width="25"/>
