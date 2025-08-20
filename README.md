@@ -77,20 +77,30 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sachin-patel02/">
-    <img src="./img/linkedin-light.svg#gh-light-mode-only" width="25"/>
-    <img src="./img/linkedin-dark.svg#gh-dark-mode-only" width="25"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg" />
+      <img alt="LinkedIn" width="25" src="./img/linkedin-light.svg" />
+    </picture>
   </a>
 
   <a href="https://www.instagram.com/__.schn_bambhaniya.__/">
-    <img src="./img/instagram-light.svg#gh-light-mode-only" width="25"/>
-    <img src="./img/instagram-dark.svg#gh-dark-mode-only" width="25"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./img/instagram-light.svg" />
+      <img alt="Instagram" width="25" src="./img/instagram-light.svg" />
+    </picture>
   </a>
 
   <a href="https://discordapp.com/users/644087144113111051">
-    <img src="./img/discord-light.svg#gh-light-mode-only" width="25"/>
-    <img src="./img/discord-dark.svg#gh-dark-mode-only" width="25"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/discord-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./img/discord-light.svg" />
+      <img alt="Discord" width="25" src="./img/discord-light.svg" />
+    </picture>
   </a>
-</p>
+</div>
+
 
 #
 
