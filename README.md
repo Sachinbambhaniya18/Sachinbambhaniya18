@@ -85,8 +85,12 @@
     <img src="./img/instagram-light.svg#gh-light-mode-only" width="25"/>
     <img src="./img/instagram-dark.svg#gh-dark-mode-only" width="25"/>
   </a>
-</p>
 
+  <a href="https://discordapp.com/users/644087144113111051">
+    <img src="./img/discord-light.svg#gh-light-mode-only" width="25"/>
+    <img src="./img/discord-dark.svg#gh-dark-mode-only" width="25"/>
+  </a>
+</p>
 
 #
 
