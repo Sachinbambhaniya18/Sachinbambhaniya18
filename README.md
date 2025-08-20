@@ -94,8 +94,8 @@
 
   <a href="https://discordapp.com/users/644087144113111051">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./img/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./img/discord-light.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./img/discord-dark.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./img/discord-light.svg" />
       <img alt="Discord" width="25" src="./img/discord-light.svg" />
     </picture>
   </a>
