@@ -83,7 +83,7 @@
       <img alt="LinkedIn" width="25" src="./img/linkedin-light.svg" />
     </picture>
   </a>
-
+&nbsp;&nbsp;
   <a href="https://www.instagram.com/__.schn_bambhaniya.__/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./img/instagram-dark.svg" />
@@ -91,7 +91,7 @@
       <img alt="Instagram" width="25" src="./img/instagram-light.svg" />
     </picture>
   </a>
-
+&nbsp;&nbsp;
   <a href="https://discordapp.com/users/644087144113111051">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./img/discord-dark.svg" />
